@@ -128,12 +128,30 @@ We encourage responsible use of this resource with attention to historical conte
 If you use this dataset, please cite:
 
 ```bibtex
-@inproceedings{nakbaecho2026,
-  title     = {The {NakbaEcho} Dataset: From Oral Testimonies to a Transcribed {Arabic} History Corpus},
-  author    = {Author1 and Author2 and Author3},
-  booktitle = {Proceedings of the 2026 Language Resources and Evaluation Conference (LREC)},
-  year      = {2026},
-  note      = {To appear}
+@inproceedings{najeh-balah-etal-2026-nakbaecho,
+    title = "The {N}akba{E}cho Dataset: From Oral Testimonies to a Transcribed {A}rabic History Corpus",
+    author = "Najeh Balah, Batool  and
+      Fawzi, Mahmoud  and
+      Elmimouni, Houda  and
+      Magdy, Walid",
+    editor = "Jarrar, Mustafa  and
+      El-Haj, Mo  and
+      Haddad, Amal  and
+      Atiani, Serin  and
+      Abudalfa, Shadi  and
+      Regier, Terry  and
+      Rayson, Paul  and
+      Sima{'}an, Khalil  and
+      Mansour, Camille",
+    booktitle = "Proceedings of the 2nd International Workshop on Nakba Narratives as Language Resources @ {LREC} 2026",
+    month = may,
+    year = "2026",
+    address = "Palma, Mallorca (Spain)",
+    publisher = "ELRA Language Resources Association (ELRA)",
+    url = "https://aclanthology.org/2026.nakbanlp-1.1/",
+    doi = "10.63317/4zvtrpg8sm2s",
+    pages = "1--22",
+    abstract = "We present NakbaEcho, a dataset derived from Palestinian testimonies about the 1948 Nakba. The resource is constructed from transcribing over 2,180 hours of recorded interviews gathered through the Palestine Remembered Oral History index and linked to multiple repositories, including the Palestinian Oral History Archive (POHA) and YouTube-hosted interviews. We harmonize interview-level metadata and generate timestamp-aligned transcripts from the original Arabic recordings using an automatic transcription pipeline configured for Palestinian Arabic. The dataset includes speaker-labeled segments and auxiliary annotations designed to support downstream research in Arabic speech processing, natural language processing, digital humanities, and oral-history analysis. NakbaEcho contributes a structured computational resource for studying Palestinian oral testimony while expanding the availability of dialectal Arabic materials for speech, text, and social research."
 }
 ```
 
