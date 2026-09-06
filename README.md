@@ -98,7 +98,7 @@ All annotations are **automatically generated** and should be treated as explora
 - **Thematic mention flags** — Nakba, Jews/Israel, British Mandate
 - **Speaker metadata** — gender, voice signature
 
-> ⚠️ These are not manually validated ground-truth labels. See the paper for detailed discussion of limitations.
+>  These are not manually validated ground-truth labels. See the paper for detailed discussion of limitations.
 
 ---
 
