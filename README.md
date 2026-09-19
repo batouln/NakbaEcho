@@ -1,6 +1,7 @@
 # NakbaEcho Dataset
 
 **From Oral Testimonies to a Transcribed Arabic History Corpus**
+<img width="640" height="480" alt="images" src="https://github.com/user-attachments/assets/9957c9f0-4251-419f-a9df-9c78b7b691ea" />
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Paper](https://img.shields.io/badge/Paper-LREC%202026-blue.svg)](#citation)
