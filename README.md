@@ -111,7 +111,7 @@ Transcription was performed using the **Gemini 2.5 Pro API** configured for dial
 - Proper nouns retained without correction
 - Absolute timestamps required for each segment
 
-See [Appendix E](paper/) in the paper for the full prompt and output schema.
+See [Appendix E](https://lrec.elra.info/lrec2026-ws-nakbanlp-01) in the paper for the full prompt and output schema.
 
 ---
 
