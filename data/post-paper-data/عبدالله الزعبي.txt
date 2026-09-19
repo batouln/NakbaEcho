@@ -1,0 +1,87 @@
+# KEY: ALL-NAKBA-Videos/mHfZ_bysn/kwkb_lhw/bdllh_lz_by/عبدالله الزعبي.wav
+# WAV_PATH: /content/drive/MyDrive/ALL-NAKBA-Videos/mHfZ_bysn/kwkb_lhw/bdllh_lz_by/عبدالله الزعبي.wav
+# DURATION_SEC: 191.925
+# MODEL: gemini-3-pro-preview
+# PROCESSED_AT_UTC: 2026-02-23T20:10:13.490025+00:00
+# WAV-LEVEL FIELDS
+nakba_mentioned: True
+nakba_literal_summary:
+[00:00:00.000 -> 00:03:11.925] The interviewer introduces the program as 'Oral History of the Palestinian Nakba' and mentions documenting the 'suffering of Palestinian refugees during the Nakba'.
+
+jews_israel_mentioned: True
+jews_israel_literal_summary:
+[00:00:00.000 -> 00:03:11.925] The interviewer mentions the 'conflict with Zionist gangs' (الصراع مع العصابات الصهيونية) as one of the interview topics.
+
+british_mandate_mentioned: True
+british_mandate_summary:
+[00:00:00.000 -> 00:03:11.925] The interviewer states that the second part of the interview aims to picture the village's suffering during the 'British Mandate period' (فترة الانتداب البريطاني).
+
+# SPEAKERS
+- NARRATOR_1 | gender=male | signature=narrator (collapsed from 2 segments)
+# TRANSCRIPT
+
+
+# ---- CHUNK 0000 [00:00:00.000 -> 00:03:11.925] ----
+[00:00:22.000 -> 00:00:24.000] NARRATOR_1: السلام عليكم ورحمة الله وبركاته. [EMO:neutral]
+[00:00:24.000 -> 00:00:32.000] NARRATOR_1: برنامج التاريخ الشفوي للنكبة الفلسطينية، نرحب بكم في حلقة جديدة من برنامج التاريخ الشفوي للنكبة الفلسطينية. [NAKBA EMO:neutral]
+[00:00:32.000 -> 00:00:36.000] NARRATOR_1: نحن اليوم في بيت السيد أبو محمد في مخيم إربد. [EMO:neutral]
+[00:00:36.000 -> 00:00:49.000] NARRATOR_1: اليوم هو الاثنين الموافق 7/5/2007 وهذا المشروع يهدف إلى تدوين وتوثيق الذاكرة الفلسطينية والجهة المسؤولة عنه فلسطين في الذاكرة PalestineRemembered.com. [EMO:neutral]
+[00:00:49.000 -> 00:00:52.000] NARRATOR_1: يجري هذه المقابلة سعيد عجاوي. [EMO:neutral]
+[00:00:52.000 -> 00:01:01.000] NARRATOR_1: عمي أبو محمد، أسئلة هذه المقابلة تقسم إلى قسمين، القسم الأول يهدف لتكوين صورة عن الحالة الاجتماعية والثقافية والاقتصادية لأهالي القرية قبل النكبة. [NAKBA EMO:neutral]
+[00:01:01.000 -> 00:01:07.000] NARRATOR_1: والقسم الثاني يهدف لتكوين صورة عن معاناة سكان القرية خلال فترة الانتداب البريطاني... [BRITISH EMO:neutral]
+[00:01:07.000 -> 00:01:15.000] NARRATOR_1: ...والصراع مع العصابات الصهيونية ومعاناة اللاجئين الفلسطينيين خلال النكبة وفي منافي اللجوء والشتات. [NAKBA JEWS_ISRAEL EMO:neutral]
+[00:01:15.000 -> 00:01:21.000] NARRATOR_1: وبدايةً في هذا اللقاء عمي أبو محمد تعرفنا على اسمك الكامل من أربع مقاطع. [EMO:neutral]
+[00:01:21.000 -> 00:01:23.000] NARRATOR_1: عبد الله قاسم محمد أحمد. [EMO:neutral]
+[00:01:23.000 -> 00:01:25.000] NARRATOR_1: عبد الله قاسم محمد أحمد الزعبي. [EMO:neutral]
+[00:01:25.000 -> 00:01:26.000] NARRATOR_1: الزعبي. نعم. [EMO:neutral]
+[00:01:26.000 -> 00:01:28.000] NARRATOR_1: مكان ولادتك؟ [EMO:neutral]
+[00:01:28.000 -> 00:01:30.000] NARRATOR_1: كوكب الهوا. [EMO:neutral]
+[00:01:30.000 -> 00:01:32.000] NARRATOR_1: تاريخ الميلاد؟ [EMO:neutral]
+[00:01:32.000 -> 00:01:35.000] NARRATOR_1: تاريخ الميلاد والله ما [inaudible]. [UNCERTAIN EMO:neutral]
+[00:01:35.000 -> 00:01:38.000] NARRATOR_1: تتذكر متى ولدت؟ تاريخ ميلادك؟ [EMO:neutral]
+[00:01:38.000 -> 00:01:40.000] NARRATOR_1: لا. كان عند المختار. [EMO:neutral]
+[00:01:40.000 -> 00:01:47.000] NARRATOR_1: أنت تاريخ ميلادك هسا ذكرت لي إياه قبل لحظات. بأنو سنة أنت؟ بألف وتسعمية وكم ولدت؟ [EMO:neutral]
+[00:01:47.000 -> 00:01:49.000] NARRATOR_1: ستة وثلاثين؟ [UNCERTAIN EMO:neutral]
+[00:01:49.000 -> 00:01:50.000] NARRATOR_1: ستة... [EMO:neutral]
+[00:01:50.000 -> 00:01:51.000] NARRATOR_1: ستة وثلاثين؟ [EMO:neutral]
+[00:01:51.000 -> 00:01:52.000] NARRATOR_1: آه. [EMO:neutral]
+[00:01:52.000 -> 00:01:54.000] NARRATOR_1: مواليد الستة وثلاثين حسب ما هو موجود في الهوية. [EMO:neutral]
+[00:01:54.000 -> 00:01:55.000] NARRATOR_1: نعم. [EMO:neutral]
+[00:01:55.000 -> 00:01:57.000] NARRATOR_1: طيب اسم والدك من أربع مقاطع؟ [EMO:neutral]
+[00:01:57.000 -> 00:01:58.000] NARRATOR_1: أبوي؟ [EMO:neutral]
+[00:01:58.000 -> 00:02:02.000] NARRATOR_1: أبوك آه. قاسم محمد أحمد الزعبي. [EMO:neutral]
+[00:02:02.000 -> 00:02:04.000] NARRATOR_1: قاسم محمد أحمد الزعبي. [EMO:neutral]
+[00:02:04.000 -> 00:02:05.000] NARRATOR_1: نعم. [EMO:neutral]
+[00:02:05.000 -> 00:02:06.000] NARRATOR_1: والدتك؟ [EMO:neutral]
+[00:02:06.000 -> 00:02:07.000] NARRATOR_1: إمي اسمها عيشة. [EMO:neutral]
+[00:02:07.000 -> 00:02:08.000] NARRATOR_1: عيشة إيش؟ [EMO:neutral]
+[00:02:08.000 -> 00:02:10.000] NARRATOR_1: عيشة الصبح... صبح الفالح. [EMO:neutral]
+[00:02:10.000 -> 00:02:13.000] NARRATOR_1: عيشة.. عيشة... عيشة صبح.. عيشة... [EMO:neutral]
+[00:02:13.000 -> 00:02:14.000] NARRATOR_1: عيشة صبح؟ [EMO:neutral]
+[00:02:14.000 -> 00:02:16.000] NARRATOR_1: آه محمد الف.. العيشة صبح الفالح. [UNCERTAIN EMO:neutral]
+[00:02:16.000 -> 00:02:17.000] NARRATOR_1: الفالح. [EMO:neutral]
+[00:02:17.000 -> 00:02:18.000] NARRATOR_1: إي نعم. [EMO:neutral]
+[00:02:18.000 -> 00:02:20.000] NARRATOR_1: نعم. طيب... [EMO:neutral]
+[00:02:20.000 -> 00:02:28.000] NARRATOR_1: أبو محمد هل توافق على إجراء هذه المقابلة بإرادتك الكاملة وأن تشارك بمعلومات كما تسعفك الذاكرة؟ [EMO:neutral]
+[00:02:28.000 -> 00:02:30.000] NARRATOR_1: نعم. [EMO:neutral]
+[00:02:30.000 -> 00:02:32.000] NARRATOR_1: نعم. طيب اسم قريتك مرة ثانية؟ [EMO:neutral]
+[00:02:32.000 -> 00:02:34.000] NARRATOR_1: كوكب الهوا. [EMO:neutral]
+[00:02:34.000 -> 00:02:38.000] NARRATOR_1: كوكب الهوا. إنت بتعرف ليش سموها كوكب الهوا؟ [EMO:neutral]
+[00:02:38.000 -> 00:02:39.000] NARRATOR_1: لا. [EMO:neutral]
+[00:02:39.000 -> 00:02:40.000] NARRATOR_1: منين إجا اسمها؟ [EMO:neutral]
+[00:02:40.000 -> 00:02:42.000] NARRATOR_1: ليش سموها كوكب الهوا؟ [EMO:neutral]
+[00:02:42.000 -> 00:02:44.000] NARRATOR_1: اسمها.. البلد اسمها كوكب، ما بعرف شو اسمها. [EMO:neutral]
+[00:02:44.000 -> 00:02:45.000] NARRATOR_1: ما بتعرف ليش سموها. [EMO:neutral]
+[00:02:45.000 -> 00:02:47.000] NARRATOR_1: لا. [EMO:neutral]
+[00:02:47.000 -> 00:02:51.000] NARRATOR_1: نعم. طيب... أهل كوكب... [EMO:neutral]
+[00:02:51.000 -> 00:02:54.000] NARRATOR_1: نعم. عام النكبة سنة ما هجيتوا من البلاد... بتتذكر قديش كان عدد سكانكم تقريباً؟ [NAKBA EMO:neutral]
+[00:02:54.000 -> 00:02:57.000] NARRATOR_1: لا. [EMO:neutral]
+[00:02:57.000 -> 00:03:00.000] NARRATOR_1: يعني ألف شخص؟ أقل؟ ألفين؟ أقل؟ 500؟ 300؟ [EMO:neutral]
+[00:03:00.000 -> 00:03:02.000] NARRATOR_1: يعني 500، 600، 700 هيك شي. [EMO:neutral]
+[00:03:02.000 -> 00:03:03.000] NARRATOR_1: هيك شي. [EMO:neutral]
+[00:03:03.000 -> 00:03:04.000] NARRATOR_1: آه. [EMO:neutral]
+[00:03:04.000 -> 00:03:05.000] NARRATOR_1: حوالي 500، 600 فرد. [EMO:neutral]
+[00:03:05.000 -> 00:03:06.000] NARRATOR_1: يعني هيك. [EMO:neutral]
+[00:03:06.000 -> 00:03:07.000] NARRATOR_1: طيب... [EMO:neutral]
+[00:03:07.000 -> 00:03:10.000] NARRATOR_1: كوكب الهوا لأي بلد كانت تتبع؟ لأي مدينة إدارياً؟ [EMO:neutral]
+[00:03:10.000 -> 00:03:11.925] NARRATOR_1: بيسان. [EMO:neutral]
